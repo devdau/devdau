@@ -1,4 +1,4 @@
-- 👋 Hi, clb DEV_DAU
+- 👋 Hi, Đây là github của câu lạc bộ DEV_DAU
 
 
 <!---
